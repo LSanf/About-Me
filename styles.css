@@ -1,0 +1,153 @@
+body {
+  color: #333333;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #30475e;
+  font-size: 3rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #30475e;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #30475e;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #3c4245;
+  border-width: 5px;
+  margin-top: 55px;
+  margin-bottom: 55px;
+  width: 3%;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.top-container {
+  background-color: #79bac1;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 35px;
+}
+
+.middle-container {
+  background-color: #79bac1;
+  padding-top: 26.5667px;
+  padding-bottom: 15px;
+}
+
+.bottom-container {
+  background-color: #79bac1;
+  padding-top: 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.nuvem-topo {
+  position: absolute;
+  right: 15%;
+  top: 12%;
+  height: 50px;
+  width: 100px;
+}
+
+.subtitulo {
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+
+.nuvem-fundo {
+  position: absolute;
+  left: 15%;
+  top: 28%;
+  height: 50px;
+  width: 100px;
+}
+
+.montanha {
+  position: relative;
+  height: 250px;
+  width: 480px;
+}
+
+.imagem {
+  height: 200px;
+  width: 200px;
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+.imgpc {
+  border-radius: 50%;
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.imgchili {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 40px auto 10px;
+}
+
+.footer-link {
+  color: #30475e;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+}
+
+.BUTTON_HHS {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #333333;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 17px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #79BAC1;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_HHS:hover {
+   background: #95CACF;
+   border: solid #333333 0;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
